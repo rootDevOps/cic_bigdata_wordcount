@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a499fd77-05e0-44b7-aed5-b75397fab0cb" name="Default Changelist" comment="" />
+    <list default="true" id="a499fd77-05e0-44b7-aed5-b75397fab0cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicas/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicas/WordCount.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1R9OtOa7lCygCbGSl5q0Oiw2o0C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Descargas/hadoop-2.8.5/share/hadoop/yarn" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -80,5 +86,16 @@
       <updated>1569076059155</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,6 +1,13 @@
 package practicas;
 
 /**
+ * Instalar dos JDK en una maquina
+ * https://www.digitalocean.com/community/tutorials/instalar-java-en-ubuntu-con-apt-get-es
+ * https://www.digitalocean.com/community/tutorials/how-to-manually-install-oracle-java-on-a-debian-or-ubuntu-vps
+ */
+
+
+/**
  * Libreria de extends Mapper
  */
 import org.apache.hadoop.io.IntWritable;
